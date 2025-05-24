@@ -91,6 +91,49 @@ const Home = () => {
 
 export default Home;
 ```
+## App.css:
+```
+body {
+  background: linear-gradient(to bottom right, #dfe9f3, #ffffff);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page {
+  text-align: center;
+  margin-top: 60px;
+  padding: 20px;
+}
+
+input {
+  padding: 12px;
+  margin: 12px;
+  width: 220px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+button {
+  padding: 12px 25px;
+  background: #28a745;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #218838;
+}
+
+.result {
+  margin-top: 25px;
+  font-size: 18px;
+  color: #333;
+}
+```
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/36d4a06a-c36e-41fe-a17a-5cabfd25f054)
