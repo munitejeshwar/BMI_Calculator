@@ -136,7 +136,8 @@ button:hover {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/36d4a06a-c36e-41fe-a17a-5cabfd25f054)
+![image](https://github.com/user-attachments/assets/4289097a-62e2-4f25-8c5e-92782f7344dc)
+
 
 
 ## RESULT
